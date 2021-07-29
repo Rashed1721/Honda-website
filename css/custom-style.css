@@ -1,0 +1,81 @@
+/* css for header */
+.header-bg-colr{
+    background-color: #264653;
+}
+.header-text{
+    font-weight: 300;
+    font-size: 14px;
+}
+.header-btn{
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #E76F51;
+}
+/* fetured bike section */
+.feture-img{
+    filter: grayscale(90%);
+    width: 288px;
+
+}
+.feture-h1-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+.feture-para-text{
+    color:#E76F51 ;
+    size: 14px;
+}
+/* clent-review section */
+.text-color{
+    color: #E76F51;
+}
+.card-size{
+    width: 320px;
+    height: 478px;
+}
+.card-img{
+    width: 149px;
+    display: block;
+    margin: auto;
+    
+}
+.star-color{
+color: #E77C40;;
+}
+.para-text{
+    font-size: 14px;
+    font-weight: 600;
+    color: #23A6F0;
+
+}
+.text{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* question section */
+
+.question-img-size{
+    width: 300px;
+    height: 423px;
+}
+
+/* notification section */
+.notification-bg{
+    background-color: rgba(206, 224, 231, 0.931); ;
+}
+.notification-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #cc8257 0%, #cd5c1a 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+/* utilities */
+.h1-size{
+    font-size: 48px;
+}
